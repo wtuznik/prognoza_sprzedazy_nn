@@ -50,3 +50,6 @@ python model.py
 ## Wynik
 
 Model generuje prognozę sprzedaży dla każdego produktu, którą następnie eksportuje się do pliku CSV i wizualizuje w dashboardzie Power BI.
+
+![Dashboard - sprzedaż i prognoza](dashboard_sprzedaz.png)
+![Dashboard - ryzyko magazynowe](dashboard_magazyn.png)
